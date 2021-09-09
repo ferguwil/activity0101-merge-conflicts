@@ -1,7 +1,7 @@
 ---
 title: Day 1
 output: html_document
-author: "Bryan Jacques"
+author: "Bryan Jacques and William Ferguson"
 ---
 
 # Example Text, Adding to Example Comment

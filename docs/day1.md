@@ -4,5 +4,6 @@ output: html_document
 ---
 
 # Example Text
+Will's example text
 
 This document is just to show plain text as a `.md` and `.html` document as well as a `.pdf`.
